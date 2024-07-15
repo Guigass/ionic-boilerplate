@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-Boilerplate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
